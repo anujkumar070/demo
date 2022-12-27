@@ -5,3 +5,14 @@ body {
 .container {
   padding-top: 100px;
 }
+
+.v1 {
+  border-right: 2px solid rgb(53, 51, 51);
+
+}
+
+input{
+  font-weight: 800;
+  color:"black";
+  border-color: black ;
+}
