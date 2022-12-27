@@ -3,6 +3,7 @@ import style from "../styles/TopScreen.module.css";
 function TopScreen() {
   return (
     <div className={style.container}>
+      <div className={style.backDrop}/>
       <div className={style.subConatiner_1}>
         <h1 className={style.techText}>TECH</h1>
         <h3 className={style.forText}>FOR</h3>
